@@ -1,1 +1,8 @@
-I am a curious and creative person who enjoys learning new things and solving problems. I have a passion for technology and programming, especially in the field of cyber security. I have completed a cyber security course where I learned how to protect data and systems from malicious attacks. I can use Python to write scripts and automate tasks. I am currently working on some exciting projects that will showcase my skills and challenge me to grow as a developer. I am always looking for opportunities to improve myself and collaborate with others who share my interests.
+Hi there! 👋
+I’m a passionate and curious learner who enjoys exploring new topics and challenges. 🚀
+
+🔭 I’m proficient in Python, one of the most versatile and popular programming languages.
+🌱 I have also completed a cyber security course where I learned about the fundamentals of cryptography, network security, and ethical hacking.
+📚 I’m currently working on some exciting projects that I plan to showcase on my GitHub profile soon. Some of them involve web development, pentesting and SQL.
+💬 I love to share my knowledge and experience with others and I’m always open to feedback and collaboration.
+📫 If you want to know more about me or my projects, feel free to reach out to me anytime. Thanks for reading!
